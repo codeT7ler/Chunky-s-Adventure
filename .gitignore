@@ -73,3 +73,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal local/user settings (DO NOT SHARE)
+Saved/
+DerivedDataCache/
+zhtxgt
+Intermediate/
+
+# User-specific config files
+Config/*User*.ini
+
+# Device-specific editor settings
+Config/DefaultEditorPerProjectUserSettings.ini
